@@ -1,0 +1,9 @@
+# Configuration file
+.env
+
+# Python Cache
+__pycache__
+.mypy_cache
+
+# Mac OS file
+.DS_Store
